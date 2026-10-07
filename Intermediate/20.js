@@ -1,4 +1,5 @@
-// 20.***
+// Question no: 20.***
+// What is the difference between slice and splice?
 
 let string = "manas";
 let arr = ['m', 'a', 'n', 'a', 's']
