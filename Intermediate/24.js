@@ -1,4 +1,5 @@
-//24. *****
+//Question no: 24. *****
+// Write a javaScript function that reverse a number.
 
 function reverseNumber(num) {
     return Number(num.toString().split('').reverse().join(''))
