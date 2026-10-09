@@ -1,4 +1,7 @@
-//  27.*****
+//Question no:  27.*****
+// Write a javascript function to get the first element of array. passing a parameter 'n' elements of the array.
+
+
 
 
 function getArrayElement(arr, n){
