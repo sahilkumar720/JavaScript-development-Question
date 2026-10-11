@@ -1,3 +1,7 @@
+//32.....****
+//how would you handle form validation in real time and show error messages dynamically?
+
+
 let nameInput = document.querySelector('#name')
 let emailInput = document.querySelector('#email')
 let passwordInput = document.querySelector('#password')

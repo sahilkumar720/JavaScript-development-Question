@@ -1,3 +1,8 @@
+//31...***
+//how can you update the DoM based on user input in real-time (e.g. live preview of a form)?
+
+
+
 let nameInput = document.querySelector('#name')
 let emailInput = document.querySelector('#email')
 let nameValue = document.querySelector('.nameValue')
