@@ -1,3 +1,7 @@
+//35.....****
+//Create a show/hide password toggle?
+
+
 let button = document.querySelector('button')
 let passwordInput = document.querySelector('#password')
 
