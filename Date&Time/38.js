@@ -1,4 +1,5 @@
-// 45.******
+// 38.******
+// Validate that a user's selected date range is no longer than 30 days.
 
 let nowDate = new Date('2025-04-23') // YYYY-MM-DDTHH:mm:ss.sssZ
 let userDate = new Date('2025-05-26');
