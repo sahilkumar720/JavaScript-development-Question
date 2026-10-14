@@ -1,5 +1,6 @@
 
 // question no: 40
+// Add or subtract n days from a given data.(e.g. add 7 days to 2025-05-01)
 
 
 let nowDate = new Date('2025-04-23') // YYYY-MM-DDTHH:mm:ss.sssZ

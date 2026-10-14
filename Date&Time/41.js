@@ -1,4 +1,5 @@
 // Question no : 41
+// Calculate the user's age from their date of birth.
 
 function takeDifference(start, end) {
     let startDate = new Date(start);
