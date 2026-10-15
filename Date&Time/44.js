@@ -1,4 +1,5 @@
 // 44.******
+// what are the different options and parameters available in toLocalString and toLocalDateString etc format date.
 let date = '2024-04-28T08:23:13.234Z'
 
 function formatDate(dateStr) {
